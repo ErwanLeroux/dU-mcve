@@ -1,1 +1,1 @@
-rootProject.name = "dU-mvce"
+rootProject.name = "dU-mcve"
