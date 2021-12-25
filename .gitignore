@@ -2,4 +2,7 @@
 /.gradle/
 /.idea/
 /build/
-/gradle/wrapper/gradle-wrapper.jar
+/buildSrc/.gradle/
+/buildSrc/build/
+/build-conventions/.gradle/
+/build-conventions/build/
