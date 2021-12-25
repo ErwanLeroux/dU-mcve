@@ -4,8 +4,8 @@ plugins {
 }
 
 dependencies {
-    // https://github.com/MicroUtils/kotlin-logging
-    implementation ("io.github.microutils:kotlin-logging-jvm:2.1.21")
+// https://mvnrepository.com/artifact/io.github.microutils/kotlin-logging-jvm
+    runtimeOnly("io.github.microutils:kotlin-logging-jvm:2.1.21")
 }
 
 
